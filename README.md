@@ -12,8 +12,8 @@ This repository contains the code for "SBEVNet: End-to-End Deep Stereo Layout Es
 ### Dependencies
 ```bash
 pip install --upgrade git+https://github.com/divamgupta/pytorch-propane
-pip install torch==1.4.0 torchvision==0.5.0
-pip install opencv-python
+pip install torch==1.6.0 and torchvision==0.7.0
+pip install opencv-python scikit-image tqdm decorator
 pip install torchgeometry
 ```
 
